@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicky-ops
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Software Engineering @ ALX Africa
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me 
     email: nickyrutto@gmail.com
