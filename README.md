@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nickson Kipruto Rop</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Welcome+to+my+repository;My+name+is+Nickson+Kipruto)](https://git.io/typing-svg)
 <h3 align="center">A passionate Software developer and Telecommunications Engineering student from Kenya</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicky-ops" alt="nicky-ops" /></a> </p>
