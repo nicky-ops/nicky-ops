@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nickyrutto" target="blank"><img src="https://img.shields.io/twitter/follow/nickyrutto?logo=twitter&style=for-the-badge" alt="nickyrutto" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering @ ALX Africa**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python, Telecommunication**
 
