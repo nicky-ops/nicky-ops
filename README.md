@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Welcome+to+my+repository;My+name+is+Nickson+Kipruto)](https://git.io/typing-svg)
-<h3 align="center">A passionate Software developer and Telecommunications Engineering student from Kenya</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <a href="https://twitter.com/nickyrutto" target="blank"><img src="https://img.shields.io/twitter/follow/nickyrutto?logo=twitter&style=for-the-badge" alt="nickyrutto" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, Telecommunication**
+- 💬 Ask me about **Python, Django, DjangoREST, IAM, Flask, FastAPI, System Architecture Design**
 
 - 📫 How to reach me **nickyrutto@gmail.com**
 
